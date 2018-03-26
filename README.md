@@ -1,7 +1,7 @@
 # SSAD_ProjectInternship
 
 Monsoon 2017
-Project with MLIT solutions on Consight.
+-Project with MLIT solutions on Consight.
 Consight is an Industrial IoT application for remote condition monitoring of machinery,
 detecting anomolies and developing prediction based analytics for production efficiency.
 
